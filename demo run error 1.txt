@@ -1,0 +1,5 @@
+Read data from file [Y/N]?
+Y
+Enter filename of the letter grid:
+unknown.txt
+Error in reading the letter grid file. Program terminates.

@@ -1,0 +1,7 @@
+Read data from file [Y/N]?
+Y
+Enter filename of the letter grid:
+LetterGrid.txt
+Enter filename of the word list:
+unknown...
+Error in reading the word list file. Program terminates.
